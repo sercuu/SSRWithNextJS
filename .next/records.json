@@ -1,0 +1,59 @@
+{
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--5-1!node_modules/sass-loader/lib/loader.js??ref--5-2!src/Style/app.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--5-1!node_modules/sass-loader/lib/loader.js??ref--5-2!src/Style/app.scss 0": 0
+    },
+    "usedIds": {
+      "0": 0
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/runtime/webpack.js": 0,
+      "commons": 1,
+      "framework": 2,
+      "1091202c838f8168fd0b4a8f5be95956dd7c9138": 3,
+      "static/Qz9SxMCW-Rg2Kxd-4BpZ8/pages/_app.js": 4,
+      "static/Qz9SxMCW-Rg2Kxd-4BpZ8/pages/_error.js": 5,
+      "static/Qz9SxMCW-Rg2Kxd-4BpZ8/pages/about.js": 6,
+      "static/Qz9SxMCW-Rg2Kxd-4BpZ8/pages/index.js": 7,
+      "static/runtime/main.js": 8,
+      "static/runtime/polyfills.js": 9,
+      "b7f4724f54f28d37ad2a467bb87fec7260662701": 10,
+      "static/GXrHWQ_NfrhmjLwn1QM66/pages/_app.js": 11,
+      "static/GXrHWQ_NfrhmjLwn1QM66/pages/_error.js": 12,
+      "static/GXrHWQ_NfrhmjLwn1QM66/pages/about.js": 13,
+      "static/GXrHWQ_NfrhmjLwn1QM66/pages/index.js": 14
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      14,
+      2,
+      8,
+      9
+    ]
+  }
+}

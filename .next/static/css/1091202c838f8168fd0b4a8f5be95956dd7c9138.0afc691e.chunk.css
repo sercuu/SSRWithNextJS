@@ -1,0 +1,18 @@
+body {
+  padding: 0;
+  margin: 0; }
+
+.navBar {
+  background-color: #05bcd4;
+  display: flex;
+  height: 50px; }
+  .navBar ul li {
+    float: left;
+    list-style: none;
+    margin-left: 10px; }
+    .navBar ul li:first-child {
+      margin-left: 0; }
+    .navBar ul li a {
+      text-decoration: none;
+      color: #fff; }
+
